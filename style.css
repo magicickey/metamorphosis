@@ -8,7 +8,7 @@
 body {
   font-family:'Orbitron', sans-serif';
   background-color:white;
-	background-image:url("");
+	background-image:url("https://github.com/magicickey/metamorphosis/blob/main/patterns_cover_8jpg.jpg");
 	color: black;
        font-size: 21px;
   
@@ -18,8 +18,8 @@ body {
 
 header {
  color: black;
- background-color:;
- background-image:url("");
+ background-color:silver;
+ background-image:url("https://github.com/magicickey/metamorphosis/blob/main/patterns_cover_8jpg.jpg");
   display:flex-center;
    padding: 70px 0;
    
@@ -29,7 +29,7 @@ header {
 header .row,
 footer .row {
   color:black;
-  background-color:;
+  background-color:silver;
 background-image:url("");
  
 
