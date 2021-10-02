@@ -18,7 +18,7 @@ body {
 
 header {
  color: black;
- background-color:silver;
+ background-color:none;
  background-image:url("");
   display:flex-center;
    padding: 70px 0;
