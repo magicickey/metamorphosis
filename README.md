@@ -5,3 +5,6 @@
 // Diaporama
 ![blame-cibo-sci-fi-manga-wallpaper-previe](https://github.com/magicickey/metamorphosis/blob/main/blame-cibo-sci-fi-manga-wallpaper-preview.png?raw=true)
 ![LOGICIEL](https://github.com/magicickey/metamorphosis/blob/main/LOGICIEL.jpeg?raw=true)
+// Mise en place 
+![animation%20kawai%20determination](https://github.com/magicickey/metamorphosis/blob/main/animation%20kawai%20determination.png?raw=true)
+![]()
