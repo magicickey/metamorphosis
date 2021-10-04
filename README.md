@@ -8,3 +8,6 @@
 // Mise en place 
 ![animation%20kawai%20determination](https://github.com/magicickey/metamorphosis/blob/main/animation%20kawai%20determination.png?raw=true)
 ![yeah](https://github.com/magicickey/metamorphosis/blob/main/yeah.png?raw=true)
+// Suite
+![]()
+![]()
